@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @1STOFSIX
-- 👀 I’m interested in learning programming anguage
+- 👋 Hi, I’m @kamkam
+- 👀 I’m interested in learning programming language
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on HTML, CSS, Javascript, JNodes
 - 📫 How to reach me ...
